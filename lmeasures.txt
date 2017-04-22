@@ -1,0 +1,6 @@
+nodec
+noded
+edgec
+edged
+graphlet
+graphletlgraal
